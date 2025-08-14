@@ -201,7 +201,7 @@ h2 {
   .image-container {
     grid-column: 1;
     grid-row: 1;
-    width: 85%;
+    width: 90%;
     padding-right: 0;
     transform: translateY(15px);
   }
