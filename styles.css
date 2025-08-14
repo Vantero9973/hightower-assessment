@@ -53,9 +53,6 @@ h2 {
 
 .hero-description,
 .hero-content {
-  font-family: "Roboto Condensed", sans-serif;
-  font-size: 18px;
-  line-height: 26px;
   color: #ffffff;
 }
 
@@ -109,9 +106,6 @@ h2 {
 
 .card-subtitle,
 .card-description {
-  font-family: "Roboto Condensed", sans-serif;
-  font-size: 18px;
-  line-height: 26px;
   color: #ffffff;
 }
 
@@ -138,9 +132,6 @@ h2 {
 
 .services-description,
 .services-note {
-  font-family: "Roboto Condensed", sans-serif;
-  font-size: 18px;
-  line-height: 26px;
   color: #424345;
 }
 
@@ -153,10 +144,6 @@ h2 {
 }
 
 .services-list li {
-  font-family: "Roboto Condensed", sans-serif;
-  font-size: 18px;
-  line-height: 26px;
-  color: #424345;
   padding: 6px 0 6px 20px;
   border-left: 3px solid #809baa;
   margin-bottom: 18px;
